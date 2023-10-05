@@ -1,0 +1,5 @@
+# Excluir archivos de texto
+*.txt
+
+# Excluir la carpeta node_modules
+node_modules/
