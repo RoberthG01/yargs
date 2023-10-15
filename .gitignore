@@ -1,4 +1,10 @@
 node_modules
 /05-webserver/node_modules
 
-.txt
+*.txt
+
+01-node-blocking-vs-non-blocking-main
+
+02-hola-mundo
+
+03-fundamentos
